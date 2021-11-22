@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Creating now *GitHub Learning Pages*.
+Learning Internship at **Future Ready Talent**.
+Practising __*Coding*__ at __Microsoft Learn__.
+*Work is __Real COOL Job__.
