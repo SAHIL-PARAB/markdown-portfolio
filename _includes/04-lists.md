@@ -1,0 +1,4 @@
+- Favourite Game "Chess"
+- Favourite Colour "Red"
+- Favourite Food "Fried Rice"
+- Favourite Place "Hogwarts"
